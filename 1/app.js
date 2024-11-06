@@ -12,7 +12,7 @@ btnCambiarTexto.addEventListener('click', function(){
 
 
 // Alternativa con funcion nombrada en vez de anonima:
-function alternarTexto() {
+/* function alternarTexto() {
     if (titulo.textContent === 'Hola, usuario!') {
         titulo.textContent = '¡Bienvenido a la página!';
     } else {
@@ -21,7 +21,7 @@ function alternarTexto() {
 }
 
 btnCambiarTexto.addEventListener('click', alternarTexto);
-
+ */
 
 
 
